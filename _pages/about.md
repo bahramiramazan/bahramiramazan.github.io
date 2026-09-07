@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Doctoral Researcher at the **University of Göttingen** specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research centers on enhancing the reasoning capabilities of Large Language Models (LLMs), relation extraction using advanced architectures, and graph-based data processing.
+I am a Doctoral Researcher (Expected to grduate by the end of 2026) at the **University of Göttingen** specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI** . My research centers on enhancing the reasoning capabilities of Large Language Models (LLMs), relation extraction using advanced architectures, and graph-based data processing.
 
 With over 5 years of software engineering experience alongside my academic research, I bridge the gap between theoretical AI foundations and practical software development. I have hands-on expertise building AI-driven solutions—ranging from graph query processing to LLM agents and educational technology platforms.
 
