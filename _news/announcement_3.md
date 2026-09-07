@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our latest paper on sequence routing for relation extraction is now available as a preprint. You can read the full paper by [downloading the PDF]({{ '/assets/pdf/Final_INLG_GM.pdf' | relative_url }}).
+Our paper, Evaluating LLMs  Thinking Speed, titled : **"Graph Mapping and LLM Thinking Speed"**,  was accepted at the 17th International Conference on Natural Language Generation (INLG) in the Netherlands. [downloading the PDF]({{ '/assets/pdf/Final_INLG_GM.pdf' | relative_url }}).
