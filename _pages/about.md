@@ -2,33 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Researcher in NLP & Generative AI | Software Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Albrecht-Thaer-Weg 24f</p>
+    <p>37075 Göttingen, Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes papers marked as "selected={true}" in _bibliography/papers.bib
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Doctoral Researcher at the **University of Göttingen** specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research centers on enhancing the reasoning capabilities of Large Language Models (LLMs), relation extraction using advanced architectures, and graph-based data processing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+With over 5 years of software engineering experience alongside my academic research, I bridge the gap between theoretical AI foundations and practical software development. I have hands-on expertise building AI-driven solutions—ranging from graph query processing to LLM agents and educational technology platforms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Research & Highlights
+
+* **Reasoning in LLMs**: Developed novel approaches like **GraphMapping** to evaluate and benchmark reasoning capabilities across large language models.
+* **Relation Extraction**: Designed capsule-network architectures (**Re-Representation**) that achieve state-of-the-art performance in sentential relation extraction.
+* **AI for Social Good**: Led AI development for [Yar](https://yar.bamaa.org/), an automated learning assistant platform enabling adaptive study and testing for students in Afghanistan.
+
+Feel free to explore my [publications](/publications/) or check out my open-source projects on [GitHub](https://github.com/bahramiramazan)[cite: 1]!
