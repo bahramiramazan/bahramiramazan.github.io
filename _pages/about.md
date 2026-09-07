@@ -39,4 +39,4 @@ With over 5 years of software engineering experience alongside my academic resea
 * **AI for Social Good**: Led AI development for [Yar](https://yar.bamaa.org/), an automated learning assistant platform enabling adaptive study and testing for students in Afghanistan.
 
 
-Feel free to explore my [publications](/publications/) or check out my open-source projects on [GitHub](https://github.com/bahramiramazan)!
+<!-- Feel free to explore my [publications](/publications/) or check out my open-source projects on [GitHub](https://github.com/bahramiramazan)! -->
