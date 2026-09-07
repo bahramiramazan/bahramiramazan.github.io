@@ -28,10 +28,15 @@ I am a Doctoral Researcher at the **University of Göttingen** specializing in *
 
 With over 5 years of software engineering experience alongside my academic research, I bridge the gap between theoretical AI foundations and practical software development. I have hands-on expertise building AI-driven solutions—ranging from graph query processing to LLM agents and educational technology platforms.
 
+<!-- <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
+  <i class="fa-solid fa-file-pdf"></i> Download CV
+</a>
+ -->
 ### Research & Highlights
 
 * **Reasoning in LLMs**: Developed novel approaches like **GraphMapping** to evaluate and benchmark reasoning capabilities across large language models.
 * **Relation Extraction**: Designed capsule-network architectures (**Re-Representation**) that achieve state-of-the-art performance in sentential relation extraction.
 * **AI for Social Good**: Led AI development for [Yar](https://yar.bamaa.org/), an automated learning assistant platform enabling adaptive study and testing for students in Afghanistan.
 
-Feel free to explore my [publications](/publications/) or check out my open-source projects on [GitHub](https://github.com/bahramiramazan)[cite: 1]!
+
+Feel free to explore my [publications](/publications/) or check out my open-source projects on [GitHub](https://github.com/bahramiramazan)!
