@@ -36,7 +36,7 @@ With over 5 years of software engineering experience alongside my academic resea
 
 * **Reasoning in LLMs**: Developed novel approaches like **GraphMapping** to evaluate and benchmark reasoning capabilities across large language models.
 * **Relation Extraction**: Designed capsule-network architectures (**Re-Representation**) that achieve state-of-the-art performance in sentential relation extraction.
-* **AI for Social Good**: Led AI development for [Yar](https://yar.bamaa.org/), an automated learning assistant platform enabling adaptive study and testing for students in Afghanistan.
+
 
 
 <!-- Feel free to explore my [publications](/publications/) or check out my open-source projects on [GitHub](https://github.com/bahramiramazan)! -->
