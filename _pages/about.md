@@ -12,7 +12,7 @@ profile:
     <p>Albrecht-Thaer-Weg 24f</p>
     <p>37075 Göttingen, Germany</p>
 
-selected_papers: true
+selected_papers: False
 social: true
 
 announcements:
