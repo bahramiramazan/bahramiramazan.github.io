@@ -32,19 +32,24 @@ I am a Doctoral Researcher at the **University of Göttingen** (expected complet
 ### Practical Skills
 
 #### 1. LLM Training & Alignment
-- **Fine-Tuning & Alignment:** Adapting open-weights models through Supervised Fine-Tuning (SFT) and preference optimization workflows (e.g., GRPO, DPO, RLHF).
+- **Fine-Tuning & Alignment:** I have exprience with Supervised Fine-Tuning (SFT), and refinforcement based training, namely: preference optimization workflows (e.g., GRPO, DPO, RLHF).
 - **Pre-training:** Training language architectures from scratch on custom datasets.
 - **Reasoning:** Developing benchmarks and methodologies to evaluate and enhance abstract reasoning in language models.
 
 #### 2. LLM Systems & Application Architecture
-- **Retrieval-Augmented Generation (RAG):** Designing end-to-end RAG systems backed by vector databases for precise, grounded document search.
+- **Retrieval-Augmented Generation (RAG):** Designing end-to-end RAG systems backed by vector databases and integrating it into business workflows.
 - **Orchestration:** Building agentic workflows and tool-calling applications using frameworks like LangChain and LlamaIndex.
-- **Production Engineering:** Deploying machine learning components into reliable, scalable web applications.
 
 #### 3. Core Deep Learning & Machine Learning
-- **Geometric & Graph Learning:** Hands-on work with Graph Neural Networks (GNNs) and geometric representations.
-- **Generative & Vision Architectures:** Practical experience with Transformers, Diffusion models, GANs, Flow models, and CNNs.
+- **Geometric & Graph Learning:** Hands-on work with Graph Neural Networks (GNNs) and geometric deep learning.
+- **Generative & Vision Architectures:** Experience and familiartiy with Transformers, Diffusion models, GANs, Flow models, and CNNs.
 - **Frameworks & Infrastructure:** PyTorch, Hugging Face, vLLM, DeepSpeed, and cloud/container tooling (Docker, Git, AWS/GCP).
+
+#### 4. Web Development Experience
+- **Django, Typescrip, and vuejs:** I have worked as a bacckend developer in django project.
+
+
+
 
 
 ---
