@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research_profile/
-title: Research Profile
+permalink: /research_Interests/
+title: Research Interests
 description: My research is rooted in analogy and analogical reasoning.
 nav: true
 nav_order: 2
