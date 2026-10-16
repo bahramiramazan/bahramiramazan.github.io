@@ -1,17 +1,8 @@
 ---
-layout: about
+layout: page
 title: about
 permalink: /
 subtitle: Ph.D. Candidate in NLP & Generative AI | Machine Learning & Software Engineer
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p><i class="fa-solid fa-location-dot me-1"></i> Albrecht-Thaer-Weg 24f</p>
-    <p><i class="fa-solid fa-building-columns me-1"></i> 37075 Göttingen, Germany</p>
-    <p><i class="fa-solid fa-envelope me-1"></i> <a href="mailto:ramazan.bahrami@uni-goettingen.de">Email Me</a></p>
 
 selected_papers: true
 social: true
@@ -25,11 +16,23 @@ latest_posts:
   enabled: false
 ---
 
+<!-- Custom Top-Left Corner Profile Box -->
+<div style="float: left; width: 240px; margin-right: 25px; margin-bottom: 20px; text-align: left;">
+  <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" class="img-fluid rounded mb-2" alt="Profile Picture">
+  <div class="more-info text-muted" style="font-size: 0.85rem; line-height: 1.4;">
+    <p class="mb-1"><i class="fa-solid fa-location-dot me-1"></i> Albrecht-Thaer-Weg 24f</p>
+    <p class="mb-1"><i class="fa-solid fa-building-columns me-1"></i> 37075 Göttingen, Germany</p>
+    <p class="mb-0"><i class="fa-solid fa-envelope me-1"></i> <a href="mailto:ramazan.bahrami@uni-goettingen.de">Email Me</a></p>
+  </div>
+</div>
+
 I am a Doctoral Researcher at the **University of Göttingen** (expected completion: late 2026), specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**.
 
 My research investigates the computational and cognitive mechanisms of **analogical reasoning**. Specifically, I focus on how relational structures are processed in human cognition and how we can implement analogous relational capabilities in state-of-the-art Large Language Models (LLMs). 
 
 Explore my detailed research agendas, benchmarks, and theoretical focus on my **[Research Profile](/research_profile/)**.
+
+<div style="clear: both;"></div>
 
 ---
 
