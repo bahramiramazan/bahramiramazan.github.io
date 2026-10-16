@@ -39,14 +39,14 @@ I am a Doctoral Researcher at the **University of Göttingen** (expected complet
 #### 2. LLM Systems & Application Architecture
 - **Retrieval-Augmented Generation (RAG):** Designing end-to-end RAG systems backed by vector databases and integrating it into business workflows.
 - **Orchestration:** Building agentic workflows and tool-calling applications using frameworks like LangChain and LlamaIndex.
+- **Django, Typescrip, and vuejs:** I have worked as a bacckend developer in django project.
 
 #### 3. Core Deep Learning & Machine Learning
 - **Geometric & Graph Learning:** Hands-on work with Graph Neural Networks (GNNs) and geometric deep learning.
 - **Generative & Vision Architectures:** Experience and familiartiy with Transformers, Diffusion models, GANs, Flow models, and CNNs.
 - **Frameworks & Infrastructure:** PyTorch, Hugging Face, vLLM, DeepSpeed, and cloud/container tooling (Docker, Git, AWS/GCP).
 
-#### 4. Web Development Experience
-- **Django, Typescrip, and vuejs:** I have worked as a bacckend developer in django project.
+
 
 
 
