@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research_inerest/
-title: research_inerest
+permalink: /Research_Profile /
+title: Research Profile
 description: My research interests in analogy and analogical reasoning.
 nav: true
 nav_order: 2
@@ -15,9 +15,10 @@ Analogies have fascinated me since my PhD. I want to understand how humans come 
 > In simple terms, an analogy is _relation similarity_ across two different contexts or domains. One way to represent this is with directed graphs, where the relations in each domain are the edges of a corresponding graph.
 {: .block-tip }
 
+<!-- Adjust the image size here: change the width value (e.g. 40%, 60%, 80%, 400px) -->
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/logics-03-00012-g001.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.liquid loading="eager" path="assets/img/logics-03-00012-g001.png" class="img-fluid rounded z-depth-1" style="width: 60%;" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -43,6 +44,26 @@ The resulting model is intended to be used in an online university entrance exam
 ### 3. Analogies for brainstorming and scientific idea generation
 
 The "AI scientist" is an emerging research area, and I believe analogies can have a significant impact on scientific idea generation. This is the idea I am most excited about for my future research. So far I have done a preliminary study of the field and some exploratory experiments with LLMs: I prompt agents to first construct a knowledge graph of current research, move that graph into an abstract space, and then use the triples of the abstracted graph to find analogical cases.
+
+## Importance of Analogy in Everyday Conversation
+
+Analogy, which is where my background lies, plays a very important role in conversation. Logic, as another aspect of analogical reasoning, can also improve the reasoning of individual agents (I am familiar with the use of logic in LLMs). Both are elaborated below.
+
+### Analogies at the heart of everyday communication
+
+Analogies are part of our everyday communication, and we are especially inclined to use them when they help us convey our true intention, narrative or understanding of a matter. The example below is taken from Gentner (2012). It comes from a discussion of a 2002 decision by a US judge ordering Microsoft to include Java as part of its operating system, and it shows how typical analogies are in everyday discussions.
+
+> **Examples of analogy in everyday discussions**
+>
+> One writer wrote: "Please explain to me why Microsoft should be forced to include third party software in their OS? Every time I buy a six pack of coke, should a can of Pepsi be included?" and another wrote "That would be like (my attorney) being forced to refer clients to his competition, since they didn't have as much business as him." Defending the decision, another writer wrote "If Ford had a monopoly on cars, they certainly would not be allowed to sell their cars with only Ford brand radios and tires..."
+
+### Logic in text
+
+Logic and logical reasoning are also a core aspect of multi-modal dialogue systems. For example, in the spatial reasoning paper by Kranti et al. (2025), navigation relies on the fact that there are rules governing the virtual environment, and agents need to reason logically in order to navigate it.
+
+## What I Hope to Contribute and Learn
+
+I am looking for opportunities to learn from colleagues and, at the same time, to contribute meaningfully to the work.
 
 ## Selected Publications
 
