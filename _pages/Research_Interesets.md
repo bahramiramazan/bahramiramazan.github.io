@@ -65,22 +65,6 @@ Logic and logical reasoning are also a core aspect of multi-modal dialogue syste
 
 I am always looking for opportunities to learn from colleagues while contributing meaningfully to the work, and I am open to collaboration.
 
-## Technical Skills
-
-#### 1. LLM Training and Fine-Tuning
-* **Supervised Fine-Tuning (SFT):** adapting pretrained models to domain-specific datasets and tasks.
-* **Preference Optimization:** reinforcement learning and alignment workflows, including Group Relative Policy Optimization (GRPO).
-* **Pre-training:** experience training language models from scratch.
-
-#### 2. LLM Integration and Web Architecture
-* **Application Logic:** integrating LLM components into scalable web applications.
-* **Orchestration:** hands-on experience with frameworks such as LangChain.
-* **Retrieval-Augmented Generation (RAG):** designing RAG systems backed by vector databases for real-time document search and grounding.
-
-#### 3. Machine Learning and Deep Learning
-* **Sequence Models:** solid theoretical and practical knowledge of Transformers and masked sequence architectures.
-* **Generative and Vision Models:** experience with diffusion models, GANs, flow models, and CNNs.
-* **Graph and Geometric Learning:** working knowledge of Graph Neural Networks (GNNs) and geometric deep learning.
 
 ## Selected Publications
 
