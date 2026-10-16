@@ -2,73 +2,143 @@
 layout: page
 permalink: /research_profile/
 title: Research Profile
-description: My research is rooted in analogy and analogical reasoning.
+description: Exploring computational models of analogy, structural reasoning, and generative AI.
 nav: true
 nav_order: 2
 ---
 
-## Overview
+<div class="row align-items-center my-4">
+  <div class="col-md-12">
+    <p class="lead">
+      My research centers on <strong>analogy and analogical reasoning</strong>. I bridge computational linguistics, graph neural networks, and modern Large Language Models (LLMs) to understand how structural relations can be represented, reasoned over, and generated automatically.
+    </p>
+  </div>
+</div>
 
-Analogies have fascinated me since my PhD. I want to understand how humans come up with analogies, and how we can make LLMs better at it.
+---
 
-> **What is an analogy?**
-> In simple terms, an analogy is _relation similarity_ across two different contexts or domains. One way to represent this is with directed graphs, where the relations in each domain are the edges of a corresponding graph.
-{: .block-tip }
+## <i class="fa-solid fa-compass me-2"></i>Research Overview
 
-<!-- Adjust the image size here: change the width value (e.g. 40%, 60%, 80%, 400px) -->
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/logics-03-00012-g001.png" class="img-fluid rounded z-depth-1" style="width: 60%;" zoomable=true %}
+Analogical reasoning—the human capability to recognize relational similarities between distinct domains—is foundational to cognition, abstract thinking, and problem-solving. My research focuses on formalizing these processes for machine learning models.
+
+{% stroke_box title="What is an Analogy?" %}
+In computational terms, an **analogy** represents <em>relational similarity across distinct domains</em>. We can formalize domains as directed, multi-relational graphs, where entities form nodes and conceptual relationships represent edges.
+{% endstroke_box %}
+
+<div class="card my-4 border-0 shadow-sm">
+  <div class="card-body bg-light text-center rounded p-4">
+    {% include figure.liquid loading="eager" path="assets/img/logics-03-00012-g001.png" class="img-fluid rounded z-depth-1" style="max-width: 65%;" zoomable=true %}
+    <div class="caption text-muted mt-2 small">
+      <strong>Figure 1:</strong> Relational structures as colored multigraphs demonstrating the classic structural alignment between the solar system (a) and the hydrogen atom (b). <em>(Figure adapted from Ott et al., 2025)</em>.
     </div>
-</div>
-<div class="caption">
-    Example domains as colored multigraphs: the solar system (a) is like the hydrogen atom (b). Figure from Ott et al. (2025).
+  </div>
 </div>
 
-My work so far includes computational models for classifying relation similarity between words or entities, which outperform the state of the art on all benchmarks I tested, and a benchmark based on graph isomorphisms for evaluating the reasoning abilities of LLMs. See [Selected Publications](#selected-publications) below.
+My work spans **state-of-the-art relation similarity classification** (outperforming existing benchmarks) and **graph-isomorphism benchmarks** designed to stress-test abstract reasoning in state-of-the-art LLMs.
 
-## Research Interests
+---
 
-All of my interests are rooted in analogy and analogical reasoning.
+## <i class="fa-solid fa-lightbulb me-2"></i>Core Focus Areas
 
-### 1. ML techniques for relation classification in text
+<div class="row g-4 my-2">
 
-Current models are limited by the fixed set of relation labels in existing benchmarks. I am interested in unsupervised approaches in which relations are learned directly from textual contexts, without labeled data. I already have the motivation and proof-of-concept results for this direction.
+  <div class="col-md-12">
+    <div class="card h-100 border-start border-4 border-primary shadow-sm">
+      <div class="card-body">
+        <h3 class="h5 card-title text-primary"><i class="fa-solid fa-diagram-project me-2"></i>1. Machine Learning for Unsupervised Relation Classification</h3>
+        <span class="badge bg-primary mb-2">Computational Linguistics</span>
+        <span class="badge bg-secondary mb-2">Graph ML</span>
+        <p class="card-text">
+          Existing benchmarks rely on rigid, pre-defined sets of relation labels. My work focuses on <strong>unsupervised relation learning</strong>, extracting rich relational representations directly from unstructured textual contexts without reliance on human-labeled data.
+        </p>
+      </div>
+    </div>
+  </div>
 
-### 2. Improving analogy generation in LLMs for education
+  <div class="col-md-12">
+    <div class="card h-100 border-start border-4 border-success shadow-sm">
+      <div class="card-body">
+        <h3 class="h5 card-title text-success"><i class="fa-solid fa-graduation-cap me-2"></i>2. Analogy Generation in LLMs for Educational Technology</h3>
+        <span class="badge bg-success mb-2">RL / Alignment</span>
+        <span class="badge bg-secondary mb-2">EdTech</span>
+        <p class="card-text">
+          Analogies are critical for making abstract concepts intuitive. I am developing methodologies that combine creative augmentation of word-analogy benchmarks with preference alignment via Reinforcement Learning (e.g., GRPO/DPO) and human evaluation.
+        </p>
+        <div class="p-2 bg-light rounded mt-2 border">
+          <small><i class="fa-solid fa-heart me-1 text-danger"></i> <strong>Applied Impact:</strong> Integrating these models into an AI-powered study platform for students in resource-constrained regions (<a href="https://yar.bamaa.org/en" target="_blank" rel="noopener noreferrer">yar.bamaa.org</a>).</small>
+        </div>
+      </div>
+    </div>
+  </div>
 
-Analogies are one of the best ways to explain complex phenomena in simple language, yet generating good analogies with LLMs has received little attention. I have a clear motivation and an initial proof of concept. The plan is to take existing word-analogy benchmarks, augment them creatively, and train an LLM with reinforcement learning (e.g. GRPO), with evaluation by human annotators.
+  <div class="col-md-12">
+    <div class="card h-100 border-start border-4 border-warning shadow-sm">
+      <div class="card-body">
+        <h3 class="h5 card-title text-warning"><i class="fa-solid fa-robot me-2"></i>3. Analogies for AI-Driven Scientific Discovery</h3>
+        <span class="badge bg-warning text-dark mb-2">LLM Agents</span>
+        <span class="badge bg-secondary mb-2">Knowledge Graphs</span>
+        <p class="card-text">
+          Targeting the emerging field of "AI Scientists", I investigate how LLMs can formulate novel hypotheses via analogy. By translating domain-specific literature into abstract knowledge graphs, LLM agents can perform cross-domain mapping to generate novel research ideas.
+        </p>
+      </div>
+    </div>
+  </div>
 
-The resulting model is intended for an online university entrance exam preparation platform, set up by former colleagues of mine for students from Afghanistan, where AI helps learners study and prepare for their exams: [yar.bamaa.org](https://yar.bamaa.org/en).
+</div>
 
-### 3. Analogies for brainstorming and scientific idea generation
+---
 
-The "AI scientist" is an emerging research area, and I believe analogies can have a significant impact on scientific idea generation. This is the idea I am most excited about for my future research. So far I have done a preliminary study of the field and some exploratory experiments with LLMs. In these experiments, I prompt agents to first construct a knowledge graph of current research, move that graph into an abstract space, and then use the triples of the abstracted graph to find analogical cases.
+## <i class="fa-solid fa-comments me-2"></i>Cognitive Foundations & Logical Reasoning
 
-## Importance of Analogy in Everyday Conversation
+<div class="row align-items-center">
+  <div class="col-md-12">
+    <h3>Analogical Mapping in Communication</h3>
+    <p>
+      Analogy is deeply embedded in human dialogue and argumentative discourse. It allows speakers to map structural logic from familiar domains to complex or disputed topics.
+    </p>
 
-Analogy, where my background lies, plays an important role in conversation. Logic, another aspect of analogical reasoning, can also improve the reasoning of individual agents, and I am familiar with its use in LLMs. I elaborate on both below.
+    <blockquote class="blockquote border-start border-3 ps-3 my-3 text-muted" style="font-size: 0.95rem;">
+      <p><em>"Please explain to me why Microsoft should be forced to include third-party software in their OS? Every time I buy a six-pack of Coke, should a can of Pepsi be included?"</em></p>
+      <footer class="blockquote-footer">Analogy in public discourse regarding Microsoft antitrust cases <cite title="Source Title">(Gentner, 2012)</cite></footer>
+    </blockquote>
 
-### Analogies at the heart of everyday communication
+    <h3 class="mt-4">Formal Logic & Spatial Contexts</h3>
+    <p>
+      Beyond text generation, formal logic and spatial reasoning are vital for grounded AI systems. In multi-modal environments and spatial navigation tasks (e.g., Kranti et al., 2025), language models must adhere to underlying environmental constraints and logical axioms to reason effectively.
+    </p>
+  </div>
+</div>
 
-Analogies are part of our everyday communication, and we are especially inclined to use them when they help us convey our true intention, narrative or understanding of a matter. The example below is taken from Gentner (2012). It comes from a discussion of a 2002 decision by a US judge ordering Microsoft to include Java as part of its operating system, and it shows how common analogies are in everyday discussions.
+---
 
-> **Examples of analogy in everyday discussions**
->
-> One writer wrote: "Please explain to me why Microsoft should be forced to include third party software in their OS? Every time I buy a six pack of coke, should a can of Pepsi be included?" and another wrote "That would be like (my attorney) being forced to refer clients to his competition, since they didn't have as much business as him." Defending the decision, another writer wrote "If Ford had a monopoly on cars, they certainly would not be allowed to sell their cars with only Ford brand radios and tires..."
+## <i class="fa-solid fa-book-bookmark me-2"></i>Selected Publications
 
-### Logic in text
+<div class="list-group list-group-flush shadow-sm rounded border">
+  
+  <div class="list-group-item p-3">
+    <div class="d-flex w-100 justify-content-between align-items-center">
+      <h5 class="mb-1 text-primary">Graph Mapping and LLM Thinking Speed</h5>
+      <span class="badge bg-primary rounded-pill">INLG 2026 (Accepted)</span>
+    </div>
+    <p class="mb-1"><strong>Bahrami, R. A.</strong> and Yahyapour, R.</p>
+    <div class="mt-2">
+      <a href="https://bahramiramazan.github.io/assets/pdf/Final_INLG_GM.pdf" class="btn btn-sm btn-outline-danger" target="_blank"><i class="fa-solid fa-file-pdf me-1"></i> Paper PDF</a>
+      <a href="https://github.com/bahramiramazan/graphmapping" class="btn btn-sm btn-outline-dark ms-1" target="_blank"><i class="fa-brands fa-github me-1"></i> Code Repository</a>
+    </div>
+  </div>
 
-Logic and logical reasoning are also a core aspect of multi-modal dialogue systems. For example, in the spatial reasoning paper by Kranti et al. (2025), navigation relies on the rules that govern the virtual environment, and agents need to reason logically in order to navigate it.
+  <div class="list-group-item p-3">
+    <div class="d-flex w-100 justify-content-between align-items-center">
+      <h5 class="mb-1 text-primary">Re-Representation in Sentential Relation Extraction with Sequence Routing Algorithm</h5>
+      <span class="badge bg-secondary rounded-pill">ICNLSP 2025</span>
+    </div>
+    <p class="mb-1"><strong>Bahrami, R.</strong> and Yahyapour, R. (pp. 315–327)</p>
+  </div>
 
-## What I Hope to Contribute and Learn
+</div>
 
-I am always looking for opportunities to learn from colleagues while contributing meaningfully to the work, and I am open to collaboration.
-
-
-## Selected Publications
-
-- **Bahrami, R. A.** and Yahyapour, R. "Graph Mapping and LLM Thinking Speed." _INLG 2026_ (accepted). [PDF](https://bahramiramazan.github.io/assets/pdf/Final_INLG_GM.pdf) · [Code](https://github.com/bahramiramazan/graphmapping)
-- **Bahrami, R.** and Yahyapour, R. "Re-Representation in Sentential Relation Extraction with Sequence Routing Algorithm." _ICNLSP 2025_, pp. 315-327.
-
-More code and material on [GitHub](https://github.com/bahramiramazan).
+<div class="text-end mt-3">
+  <a href="https://github.com/bahramiramazan" class="text-decoration-none fw-bold" target="_blank">
+    View complete codebase on GitHub <i class="fa-solid fa-arrow-right ms-1"></i>
+  </a>
+</div>
