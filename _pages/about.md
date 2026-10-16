@@ -49,7 +49,7 @@ I am a Doctoral Researcher at the **University of Göttingen** (expected complet
 
 ---
 
-## Quick Links
+<!-- ## Quick Links
 
 <div class="d-flex flex-wrap gap-2 my-3">
   <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="btn btn-outline-primary btn-sm" role="button" target="_blank" rel="noopener noreferrer">
@@ -59,4 +59,4 @@ I am a Doctoral Researcher at the **University of Göttingen** (expected complet
     <i class="fa-solid fa-book me-1"></i> Publications
   </a>
 
-</div>
+</div> -->
