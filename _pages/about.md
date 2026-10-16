@@ -28,19 +28,19 @@ I am a Doctoral Researcher (Expected to grduate by the end of 2026) at the **Uni
 
 Moreover, I have over 5 years of software engineering experience. As such, my hands on experience include:  
 
-# Technical Skills & Experience
+## Technical Research Skills
 
-## 1. LLM Training, Fine-Tuning & Re-Training
+#### 1. LLM Training, Fine-Tuning & Re-Training
 * **Supervised Fine-Tuning (SFT):** Adapting pretrained models to domain-specific datasets and task alignment.
 * **Preference Optimization:** Implementing Group Relative Policy Optimization (GRPO) and alignment workflows.
 * **Pre-training:** Fundamental experience training Large Language Models from scratch.
 
-## 2. LLM Integration & Web Architecture
+#### 2. LLM Integration & Web Architecture
 * **Business Logic:** Integrating LLM components into scalable web applications.
 * **Frameworks:** Hands-on experience with orchestration tools like LangChain.
 * **RAG Systems:** Designing Retrieval-Augmented Generation (RAG) architecture integrated with Vector Databases for real-time document search and grounding.
 
-## 3. Practical Machine Learning & Deep Learning
+#### 3. Practical Machine Learning & Deep Learning
 * **Sequence-to-Sequence Models:** Core theoretical and practical knowledge of Transformers and masked sequence architectures.
 * **Generative & Vision Architectures:** Experience with Diffusion Models, Generative Adversarial Networks (GANs), Flow Models, and Convolutional Neural Networks (CNNs).
 * **Specialized Deep Learning:** Preliminary experience with Graph Neural Networks (GNNs) and Geometric Deep Learning.
