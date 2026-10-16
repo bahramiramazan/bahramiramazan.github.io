@@ -26,7 +26,9 @@ Analogies have fascinated me since my PhD. I want to understand how humans come 
 </div>
 
 My work so far includes computational models for classifying relation similarity between words or entities, which outperform the state of the art on all benchmarks I tested, and a benchmark based on graph isomorphisms for evaluating the reasoning abilities of LLMs. See [Selected Publications](#selected-publications) below.
+
 ---
+
 ## Research Interests
 
 All of my interests are rooted in analogy and analogical reasoning.
