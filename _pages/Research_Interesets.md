@@ -2,7 +2,7 @@
 layout: page
 permalink: /Research_Profile /
 title: Research Profile
-description: My research interests in analogy and analogical reasoning.
+description: My research interest is rooted in analogy and analogical reasoning.
 nav: true
 nav_order: 2
 ---
