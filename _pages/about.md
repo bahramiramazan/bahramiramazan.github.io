@@ -46,6 +46,8 @@ Alongside my academic work, I bring **5+ years of software engineering experienc
 - **Geometric & Graph Learning:** Hands-on work with Graph Neural Networks (GNNs) and geometric representations.
 - **Generative & Vision Architectures:** Practical experience with Transformers, Diffusion models, GANs, Flow models, and CNNs.
 - **Frameworks & Infrastructure:** PyTorch, Hugging Face, vLLM, DeepSpeed, and cloud/container tooling (Docker, Git, AWS/GCP).
+
+
 ---
 
 ## Quick Links
