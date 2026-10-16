@@ -1,7 +1,10 @@
 ---
-title: "Research Interests"
-permalink: /research/
 layout: page
+permalink: /research_inerest/
+title: research_inerest
+description: My research interests in analogy and analogical reasoning.
+nav: true
+nav_order: 2
 ---
 
 ## Overview
@@ -9,10 +12,17 @@ layout: page
 Analogies have fascinated me since my PhD. I want to understand how humans come up with analogies, and how we can make LLMs better at it.
 
 > **What is an analogy?**
-> In simple terms, an analogy is *relation similarity* across two different contexts or domains. One way to represent this is with directed graphs, where the relations in each domain are the edges of a corresponding graph.
->
-> ![Example domains as colored multigraphs: the solar system (a) is like the hydrogen atom (b).](/images/logics-03-00012-g001.png)
-> *Example domains as colored multigraphs: the solar system (a) is like the hydrogen atom (b). Figure from Ott et al. (2025).*
+> In simple terms, an analogy is _relation similarity_ across two different contexts or domains. One way to represent this is with directed graphs, where the relations in each domain are the edges of a corresponding graph.
+{: .block-tip }
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/logics-03-00012-g001.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Example domains as colored multigraphs: the solar system (a) is like the hydrogen atom (b). Figure from Ott et al. (2025).
+</div>
 
 My own work so far includes computational models for classifying relation similarity between words or entities (outperforming the state of the art on all benchmarks I tested), and a benchmark based on graph isomorphisms for evaluating the reasoning abilities of LLMs. See [Selected Publications](#selected-publications) below.
 
@@ -36,7 +46,7 @@ The "AI scientist" is an emerging research area, and I believe analogies can hav
 
 ## Selected Publications
 
-- **Bahrami, R. A.** and Yahyapour, R. "Graph Mapping and LLM Thinking Speed." *INLG 2026* (accepted). [PDF](https://bahramiramazan.github.io/assets/pdf/Final_INLG_GM.pdf) · [Code](https://github.com/bahramiramazan/graphmapping)
-- **Bahrami, R.** and Yahyapour, R. "Re-Representation in Sentential Relation Extraction with Sequence Routing Algorithm." *ICNLSP 2025*, pp. 315-327.
+- **Bahrami, R. A.** and Yahyapour, R. "Graph Mapping and LLM Thinking Speed." _INLG 2026_ (accepted). [PDF](https://bahramiramazan.github.io/assets/pdf/Final_INLG_GM.pdf) · [Code](https://github.com/bahramiramazan/graphmapping)
+- **Bahrami, R.** and Yahyapour, R. "Re-Representation in Sentential Relation Extraction with Sequence Routing Algorithm." _ICNLSP 2025_, pp. 315-327.
 
 More code and material on [GitHub](https://github.com/bahramiramazan).
