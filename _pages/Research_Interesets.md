@@ -61,8 +61,7 @@ Analogies are part of our everyday communication, and we are especially inclined
 >
 > One writer wrote: "Please explain to me why Microsoft should be forced to include third-party software in their OS? Every time I buy a six-pack of Coke, should a can of Pepsi be included?" and another wrote, "That would be like (my attorney) being forced to refer clients to his competition, since they didn't have as much business as him." Defending the decision, another writer wrote, "If Ford had a monopoly on cars, they certainly would not be allowed to sell their cars with only Ford-brand radios and tires..."
 
-### Logic in text
-Logic and logical reasoning are also a core aspect of multimodal dialogue systems. For example, in the spatial reasoning paper by Kranti et al. (2025), navigation relies on the rules that govern the virtual environment, and agents need to reason logically in order to navigate it.
+
 
 ---
 
