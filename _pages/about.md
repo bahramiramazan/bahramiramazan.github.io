@@ -26,11 +26,10 @@ latest_posts:
 
 I am a Doctoral Researcher at the **University of Göttingen** (expected completion: late 2026), specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research focuses on computational model for analogical reasoning. I am curious about analogy, how it is processed in human, and how can we improve the same in LLMs [Research Page](/research_profile/).
 
-Alongside my academic work, I bring ** 4 years of software engineering experience **.
 
 ---
 
-### Practical Research Skills
+### Practical Skills
 
 #### 1. LLM Training & Alignment
 - **Fine-Tuning & Alignment:** Adapting open-weights models through Supervised Fine-Tuning (SFT) and preference optimization workflows (e.g., GRPO, DPO, RLHF).
@@ -41,6 +40,7 @@ Alongside my academic work, I bring ** 4 years of software engineering experienc
 - **Retrieval-Augmented Generation (RAG):** Designing end-to-end RAG systems backed by vector databases for precise, grounded document search.
 - **Orchestration:** Building agentic workflows and tool-calling applications using frameworks like LangChain and LlamaIndex.
 - **Production Engineering:** Deploying machine learning components into reliable, scalable web applications.
+- **Web Application FrameWorks:** Familiarity and experience with Django and Restful application development. 
 
 #### 3. Core Deep Learning & Machine Learning
 - **Geometric & Graph Learning:** Hands-on work with Graph Neural Networks (GNNs) and geometric representations.
