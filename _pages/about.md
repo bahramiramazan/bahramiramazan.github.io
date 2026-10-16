@@ -7,12 +7,12 @@ subtitle: Ph.D. Candidate in NLP & Generative AI | Machine Learning & Software E
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: True
+  image_circular: false
   more_info: >
     <p>Albrecht-Thaer-Weg 24f</p>
     <p>37075 Göttingen, Germany</p>
 
-selected_papers: False
+selected_papers: true
 social: true
 
 announcements:
@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Doctoral Researcher at the **University of Göttingen** (expected completion: late 2026), specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research focuses on computational model for analogical reasoning. I am curious about analogy, how it is processed in human, and how can we improve the same in LLMs [Research Page](/research_Interests/).
+I am a Doctoral Researcher at the **University of Göttingen** (expected completion: late 2026), specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research focuses on computational model for analogical reasoning. I am curious about analogy, how it is processed in human, and how can we improve the same in LLMs [Research Page](/research_profile/).
 
 
 ---
@@ -40,7 +40,6 @@ I am a Doctoral Researcher at the **University of Göttingen** (expected complet
 - **Retrieval-Augmented Generation (RAG):** Designing end-to-end RAG systems backed by vector databases for precise, grounded document search.
 - **Orchestration:** Building agentic workflows and tool-calling applications using frameworks like LangChain and LlamaIndex.
 - **Production Engineering:** Deploying machine learning components into reliable, scalable web applications.
-- **Web Application FrameWorks:** Familiarity and experience with Django and Restful application development. 
 
 #### 3. Core Deep Learning & Machine Learning
 - **Geometric & Graph Learning:** Hands-on work with Graph Neural Networks (GNNs) and geometric representations.
