@@ -49,6 +49,7 @@ The "AI scientist" is an emerging research area, and I believe analogies can hav
 
 
 ---
+
 ## Importance of Analogy in Everyday Conversation
 
 Analogy, where my background lies, plays an important role in conversation. Logic, another aspect of analogical reasoning, can also improve the reasoning of individual agents, and I am familiar with its use in LLMs. I elaborate on both below.
@@ -64,7 +65,9 @@ Analogies are part of our everyday communication, and we are especially inclined
 ### Logic in text
 
 Logic and logical reasoning are also a core aspect of multi-modal dialogue systems. For example, in the spatial reasoning paper by Kranti et al. (2025), navigation relies on the rules that govern the virtual environment, and agents need to reason logically in order to navigate it.
+
 ---
+
 ## What I Hope to Contribute and Learn
 
 I am always looking for opportunities to learn from colleagues while contributing meaningfully to the work, and I am open to collaboration.
