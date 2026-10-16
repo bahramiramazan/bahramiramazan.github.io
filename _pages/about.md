@@ -24,39 +24,45 @@ latest_posts:
   enabled: false
 ---
 
-I am a Doctoral Researcher in Computer Science at the **University of Göttingen** (expected completion: late 2026). My research bridges **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**, with a dedicated focus on computational analogy—investigating how humans formulate analogical reasoning and building models that enable Large Language Models (LLMs) to reason abstractly. Explore more about my projects on my [Research Page](/research/).
+I am a Doctoral Researcher at the **University of Göttingen** (expected completion: late 2026), specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research focuses on computational analogy—exploring how humans formulate analogical reasoning and designing techniques to improve abstract reasoning in LLMs. Learn more on my [Research Page](/research/).
 
-Complementing my academic research, I bring **5+ years of software engineering experience**, specializing in taking complex machine learning architectures from initial training and fine-tuning to production-ready deployment.
+Alongside my academic work, I bring **5+ years of software engineering experience**, bridging the gap between deep learning research and scalable, production-ready software systems.
 
 ---
 
 ## Technical Expertise
 
-### 1. Large Language Models & Alignment
-* **Fine-Tuning & Alignment:** Extensive experience in Supervised Fine-Tuning (SFT) and preference optimization techniques (e.g., GRPO, DPO, RLHF) to adapt open-weights foundation models for complex tasks.
-* **Pre-training:** Hands-on experience pre-training causal and masked language models from scratch on custom corpora.
-* **Analogy & Reasoning:** Specialized benchmark development and methodology design for evaluating abstract reasoning in LLMs.
+### 1. LLM Training & Alignment
+* **Fine-Tuning & Alignment:** Adapting open-weights models through Supervised Fine-Tuning (SFT) and preference optimization workflows (e.g., GRPO, DPO, RLHF).
+* **Pre-training:** Training language architectures from scratch on custom datasets.
+* **Reasoning:** Developing benchmarks and methodologies to evaluate and enhance abstract reasoning in language models.
 
-### 2. LLM Orchestration & Systems Architecture
-* **Retrieval-Augmented Generation (RAG):** End-to-end design and deployment of enterprise RAG systems utilizing vector database indexing, hybrid search, and grounding strategies.
-* **Orchestration & Tool-Calling:** Building autonomous agentic workflows and tool-augmented applications using modern orchestration frameworks (LangChain, LlamaIndex).
-* **Production Engineering:** Full-stack integration of machine learning pipelines into scalable, high-throughput microservices.
+<br>
 
-### 3. Core Machine Learning & Deep Learning
-* **Geometric & Graph Learning:** Graph Neural Networks (GNNs), message-passing paradigms, and node/graph embedding representations.
-* **Generative & Vision Architectures:** Practical experience across Diffusion Models, Flow-based Models, GANs, and Transformers (Vision & Text).
-* **Frameworks & Infrastructure:** PyTorch, Hugging Face ecosystem, vLLM, DeepSpeed, CUDA optimization, and cloud infrastructure (Docker, CI/CD, AWS/GCP).
+### 2. LLM Systems & Application Architecture
+* **Retrieval-Augmented Generation (RAG):** Designing end-to-end RAG systems backed by vector databases for precise, grounded document search.
+* **Orchestration:** Building agentic workflows and tool-calling applications using frameworks like LangChain and LlamaIndex.
+* **Production Engineering:** Deploying machine learning components into reliable, scalable web applications.
+
+<br>
+
+### 3. Core Deep Learning & Machine Learning
+* **Geometric & Graph Learning:** Hands-on work with Graph Neural Networks (GNNs) and geometric representations.
+* **Generative & Vision Architectures:** Practical experience with Transformers, Diffusion models, GANs, Flow models, and CNNs.
+* **Frameworks & Infrastructure:** PyTorch, Hugging Face, vLLM, DeepSpeed, and cloud/container tooling (Docker, Git, AWS/GCP).
 
 ---
 
-<div class="repositories d-flex flex-wrap flex-row justify-content-center align-items-center">
-  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="btn btn-sm z-depth-1 me-2" role="button" target="_blank" rel="noopener noreferrer">
-    <i class="fa-solid fa-file-pdf"></i> Download Curriculum Vitae
+## Quick Links
+
+<div class="d-flex flex-wrap gap-2 my-3">
+  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="btn btn-outline-primary btn-sm" role="button" target="_blank" rel="noopener noreferrer">
+    <i class="fa-solid fa-file-pdf me-1"></i> Download CV
   </a>
-  <a href="{{ '/publications/' | relative_url }}" class="btn btn-sm z-depth-1 me-2" role="button">
-    <i class="fa-solid fa-book"></i> View Publications
+  <a href="{{ '/publications/' | relative_url }}" class="btn btn-outline-secondary btn-sm" role="button">
+    <i class="fa-solid fa-book me-1"></i> Publications
   </a>
-  <a href="https://github.com/bahramiramazan" class="btn btn-sm z-depth-1" role="button" target="_blank" rel="noopener noreferrer">
-    <i class="fa-brands fa-github"></i> GitHub Profile
+  <a href="https://github.com/bahramiramazan" class="btn btn-outline-dark btn-sm" role="button" target="_blank" rel="noopener noreferrer">
+    <i class="fa-brands fa-github me-1"></i> GitHub
   </a>
 </div>
