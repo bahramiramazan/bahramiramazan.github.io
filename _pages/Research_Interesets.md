@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /research_profile/
 title: Research Profile
 description: My research is rooted in analogy and analogical reasoning.
 nav: true
