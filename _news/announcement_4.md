@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, Evaluating LLMs  Thinking Speed, titled : **"Investigating Semantic Similarity’s Role in Word Analogies"**,  was accepted at the 40th he 40th Pacific Asia Conference on Language, Information and Computation (PACLIC) TAIPEI, TAIWAN. [Read it here]({{ '/assets/pdf/word_analogy.pdf' | relative_url }}).
+Our paper titled : **"Investigating Semantic Similarity’s Role in Word Analogies"**,  was accepted at the 40th he 40th Pacific Asia Conference on Language, Information and Computation (PACLIC) TAIPEI, TAIWAN. [Read it here]({{ '/assets/pdf/word_analogy.pdf' | relative_url }}).
