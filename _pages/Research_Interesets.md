@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /Research_Profile /
+permalink: /research/
 title: Research Profile
-description: My research interest is rooted in analogy and analogical reasoning.
+description: My research is rooted in analogy and analogical reasoning.
 nav: true
 nav_order: 2
 ---
@@ -25,7 +25,7 @@ Analogies have fascinated me since my PhD. I want to understand how humans come 
     Example domains as colored multigraphs: the solar system (a) is like the hydrogen atom (b). Figure from Ott et al. (2025).
 </div>
 
-My own work so far includes computational models for classifying relation similarity between words or entities (outperforming the state of the art on all benchmarks I tested), and a benchmark based on graph isomorphisms for evaluating the reasoning abilities of LLMs. See [Selected Publications](#selected-publications) below.
+My work so far includes computational models for classifying relation similarity between words or entities, which outperform the state of the art on all benchmarks I tested, and a benchmark based on graph isomorphisms for evaluating the reasoning abilities of LLMs. See [Selected Publications](#selected-publications) below.
 
 ## Research Interests
 
@@ -33,25 +33,25 @@ All of my interests are rooted in analogy and analogical reasoning.
 
 ### 1. ML techniques for relation classification in text
 
-Current models are limited by the fixed set of relation labels in existing benchmarks. I am interested in unsupervised approaches in which relations are learned directly from textual contexts, without labeled data. I already have motivation and proof-of-concept results for this direction.
+Current models are limited by the fixed set of relation labels in existing benchmarks. I am interested in unsupervised approaches in which relations are learned directly from textual contexts, without labeled data. I already have the motivation and proof-of-concept results for this direction.
 
 ### 2. Improving analogy generation in LLMs for education
 
-Analogies are one of the best ways to explain complex phenomena in simple, understandable language, yet generating good analogies with LLMs has received little attention. I have a clear motivation and an initial proof of concept. The plan is to take existing word-analogy benchmarks, augment them creatively, and train an LLM with reinforcement learning (e.g. GRPO), with evaluation by human annotators.
+Analogies are one of the best ways to explain complex phenomena in simple language, yet generating good analogies with LLMs has received little attention. I have a clear motivation and an initial proof of concept. The plan is to take existing word-analogy benchmarks, augment them creatively, and train an LLM with reinforcement learning (e.g. GRPO), with evaluation by human annotators.
 
-The resulting model is intended to be used in an online university entrance exam preparation platform, set up by former colleagues of mine for students from Afghanistan, where AI helps learners study and prepare for their exams: [yar.bamaa.org](https://yar.bamaa.org/en).
+The resulting model is intended for an online university entrance exam preparation platform, set up by former colleagues of mine for students from Afghanistan, where AI helps learners study and prepare for their exams: [yar.bamaa.org](https://yar.bamaa.org/en).
 
 ### 3. Analogies for brainstorming and scientific idea generation
 
-The "AI scientist" is an emerging research area, and I believe analogies can have a significant impact on scientific idea generation. This is the idea I am most excited about for my future research. So far I have done a preliminary study of the field and some exploratory experiments with LLMs: I prompt agents to first construct a knowledge graph of current research, move that graph into an abstract space, and then use the triples of the abstracted graph to find analogical cases.
+The "AI scientist" is an emerging research area, and I believe analogies can have a significant impact on scientific idea generation. This is the idea I am most excited about for my future research. So far I have done a preliminary study of the field and some exploratory experiments with LLMs. In these experiments, I prompt agents to first construct a knowledge graph of current research, move that graph into an abstract space, and then use the triples of the abstracted graph to find analogical cases.
 
 ## Importance of Analogy in Everyday Conversation
 
-Analogy, which is where my background lies, plays a very important role in conversation. Logic, as another aspect of analogical reasoning, can also improve the reasoning of individual agents (I am familiar with the use of logic in LLMs). Both are elaborated below.
+Analogy, where my background lies, plays an important role in conversation. Logic, another aspect of analogical reasoning, can also improve the reasoning of individual agents, and I am familiar with its use in LLMs. I elaborate on both below.
 
 ### Analogies at the heart of everyday communication
 
-Analogies are part of our everyday communication, and we are especially inclined to use them when they help us convey our true intention, narrative or understanding of a matter. The example below is taken from Gentner (2012). It comes from a discussion of a 2002 decision by a US judge ordering Microsoft to include Java as part of its operating system, and it shows how typical analogies are in everyday discussions.
+Analogies are part of our everyday communication, and we are especially inclined to use them when they help us convey our true intention, narrative or understanding of a matter. The example below is taken from Gentner (2012). It comes from a discussion of a 2002 decision by a US judge ordering Microsoft to include Java as part of its operating system, and it shows how common analogies are in everyday discussions.
 
 > **Examples of analogy in everyday discussions**
 >
@@ -59,32 +59,28 @@ Analogies are part of our everyday communication, and we are especially inclined
 
 ### Logic in text
 
-Logic and logical reasoning are also a core aspect of multi-modal dialogue systems. For example, in the spatial reasoning paper by Kranti et al. (2025), navigation relies on the fact that there are rules governing the virtual environment, and agents need to reason logically in order to navigate it.
+Logic and logical reasoning are also a core aspect of multi-modal dialogue systems. For example, in the spatial reasoning paper by Kranti et al. (2025), navigation relies on the rules that govern the virtual environment, and agents need to reason logically in order to navigate it.
 
 ## What I Hope to Contribute and Learn
 
-I am looking for opportunities to learn from colleagues and, at the same time, to contribute meaningfully to the work.
+I am always looking for opportunities to learn from colleagues while contributing meaningfully to the work, and I am open to collaboration.
 
+## Technical Skills
 
-## Technical Research Skills
+#### 1. LLM Training and Fine-Tuning
+* **Supervised Fine-Tuning (SFT):** adapting pretrained models to domain-specific datasets and tasks.
+* **Preference Optimization:** reinforcement learning and alignment workflows, including Group Relative Policy Optimization (GRPO).
+* **Pre-training:** experience training language models from scratch.
 
-#### 1. LLM Training, Fine-Tuning & Re-Training
-* **Supervised Fine-Tuning (SFT):** Adapting pretrained models to domain-specific datasets and task alignment.
-* **Preference Optimization:** Implementing Group Relative Policy Optimization (GRPO) and alignment workflows.
-* **Pre-training:** Fundamental experience training Large Language Models from scratch.
+#### 2. LLM Integration and Web Architecture
+* **Application Logic:** integrating LLM components into scalable web applications.
+* **Orchestration:** hands-on experience with frameworks such as LangChain.
+* **Retrieval-Augmented Generation (RAG):** designing RAG systems backed by vector databases for real-time document search and grounding.
 
-#### 2. LLM Integration & Web Architecture
-* **Business Logic:** Integrating LLM components into scalable web applications.
-* **Frameworks:** Hands-on experience with orchestration tools like LangChain.
-* **RAG Systems:** Designing Retrieval-Augmented Generation (RAG) architecture integrated with Vector Databases for real-time document search and grounding.
-
-#### 3. Practical Machine Learning & Deep Learning
-* **Sequence-to-Sequence Models:** Core theoretical and practical knowledge of Transformers and masked sequence architectures.
-* **Generative & Vision Architectures:** Experience with Diffusion Models, Generative Adversarial Networks (GANs), Flow Models, and Convolutional Neural Networks (CNNs).
-* **Specialized Deep Learning:** Preliminary experience with Graph Neural Networks (GNNs) and Geometric Deep Learning.
-
-
-
+#### 3. Machine Learning and Deep Learning
+* **Sequence Models:** solid theoretical and practical knowledge of Transformers and masked sequence architectures.
+* **Generative and Vision Models:** experience with diffusion models, GANs, flow models, and CNNs.
+* **Graph and Geometric Learning:** working knowledge of Graph Neural Networks (GNNs) and geometric deep learning.
 
 ## Selected Publications
 
