@@ -30,7 +30,7 @@ My work so far includes computational models for classifying relational similari
 
 ## Research Interests
 
-All of my interests are rooted in analogy and analogical reasoning.
+
 
 ### 1. ML techniques for relation classification in text
 
