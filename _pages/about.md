@@ -58,7 +58,5 @@ I am a Doctoral Researcher at the **University of Göttingen** (expected complet
   <a href="{{ '/publications/' | relative_url }}" class="btn btn-outline-secondary btn-sm" role="button">
     <i class="fa-solid fa-book me-1"></i> Publications
   </a>
-  <a href="https://github.com/bahramiramazan" class="btn btn-outline-dark btn-sm" role="button" target="_blank" rel="noopener noreferrer">
-    <i class="fa-brands fa-github me-1"></i> GitHub
-  </a>
+
 </div>
