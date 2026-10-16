@@ -7,7 +7,7 @@ subtitle: Ph.D. Candidate in NLP & Generative AI | Machine Learning & Software E
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: True
   more_info: >
     <p>Albrecht-Thaer-Weg 24f</p>
     <p>37075 Göttingen, Germany</p>
