@@ -55,4 +55,25 @@ Analogy, where my background lies, plays an important role in conversation. Logi
 
 ### Analogies at the heart of everyday communication
 
-Analog
+Analogies are part of our everyday communication, and we are especially inclined to use them when they help us convey our true intention, narrative, or understanding of a matter. The example below is taken from Gentner (2012). It comes from a discussion of a 2002 decision by a US judge ordering Microsoft to include Java as part of its operating system, and it shows how common analogies are in everyday discussions.
+
+> **Examples of analogy in everyday discussions**
+>
+> One writer wrote: "Please explain to me why Microsoft should be forced to include third-party software in their OS? Every time I buy a six-pack of Coke, should a can of Pepsi be included?" and another wrote, "That would be like (my attorney) being forced to refer clients to his competition, since they didn't have as much business as him." Defending the decision, another writer wrote, "If Ford had a monopoly on cars, they certainly would not be allowed to sell their cars with only Ford-brand radios and tires..."
+
+### Logic in text
+Logic and logical reasoning are also a core aspect of multimodal dialogue systems. For example, in the spatial reasoning paper by Kranti et al. (2025), navigation relies on the rules that govern the virtual environment, and agents need to reason logically in order to navigate it.
+
+---
+
+## What I Hope to Contribute and Learn
+
+I am always looking for opportunities to learn from colleagues while contributing meaningfully to the work, and I am open to collaboration.
+
+
+## Selected Publications
+
+- **Bahrami, R. A.** and Yahyapour, R. "Graph Mapping and LLM Thinking Speed." _INLG 2026_ (accepted). [PDF](https://bahramiramazan.github.io/assets/pdf/Final_INLG_GM.pdf) · [Code](https://github.com/bahramiramazan/graphmapping)
+- **Bahrami, R.** and Yahyapour, R. "Re-Representation in Sentential Relation Extraction with Sequence Routing Algorithm." _ICNLSP 2025_, pp. 315–327.
+
+More code and material on [GitHub](https://github.com/bahramiramazan).
