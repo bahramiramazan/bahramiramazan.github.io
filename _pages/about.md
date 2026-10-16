@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Researcher in NLP & Generative AI | Software Engineer
+subtitle: Ph.D. Candidate in NLP & Generative AI | Machine Learning & Software Engineer
 
 profile:
   align: right
@@ -12,8 +12,8 @@ profile:
     <p>Albrecht-Thaer-Weg 24f</p>
     <p>37075 Göttingen, Germany</p>
 
-selected_papers: true # includes papers marked as "selected={true}" in _bibliography/papers.bib
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
   enabled: true
@@ -24,30 +24,39 @@ latest_posts:
   enabled: false
 ---
 
-I am a doctoral researcher at the **University of Göttingen** (expected graduation: end of 2026), working on **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research centers on analogy: how humans come up with and process analogies, and how we can make LLMs better at it. You can read more on my [research page](/research/).
+I am a Doctoral Researcher in Computer Science at the **University of Göttingen** (expected completion: late 2026). My research bridges **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**, with a dedicated focus on computational analogy—investigating how humans formulate analogical reasoning and building models that enable Large Language Models (LLMs) to reason abstractly. Explore more about my projects on my [Research Page](/research/).
 
-Alongside my research, I bring over five years of software engineering experience, so I am equally comfortable training a model and shipping it inside a real application.
+Complementing my academic research, I bring **5+ years of software engineering experience**, specializing in taking complex machine learning architectures from initial training and fine-tuning to production-ready deployment.
 
-## Technical Skills
+---
 
-#### 1. LLM Training and Fine-Tuning
-* **Supervised Fine-Tuning (SFT):** adapting pretrained models to domain-specific datasets and tasks.
-* **Preference Optimization:** reinforcement learning and alignment workflows, including Group Relative Policy Optimization (GRPO).
-* **Pre-training:** experience training language models from scratch.
+## Technical Expertise
 
-#### 2. LLM Integration and Web Architecture
-* **Application Logic:** integrating LLM components into scalable web applications.
-* **Orchestration:** hands-on experience with frameworks such as LangChain.
-* **Retrieval-Augmented Generation (RAG):** designing RAG systems backed by vector databases for real-time document search and grounding.
+### 1. Large Language Models & Alignment
+* **Fine-Tuning & Alignment:** Extensive experience in Supervised Fine-Tuning (SFT) and preference optimization techniques (e.g., GRPO, DPO, RLHF) to adapt open-weights foundation models for complex tasks.
+* **Pre-training:** Hands-on experience pre-training causal and masked language models from scratch on custom corpora.
+* **Analogy & Reasoning:** Specialized benchmark development and methodology design for evaluating abstract reasoning in LLMs.
 
-#### 3. Machine Learning and Deep Learning
-* **Sequence Models:** solid theoretical and practical knowledge of Transformers and masked sequence architectures.
-* **Generative and Vision Models:** experience with diffusion models, GANs, flow models, and CNNs.
-* **Graph and Geometric Learning:** working knowledge of Graph Neural Networks (GNNs) and geometric deep learning.
+### 2. LLM Orchestration & Systems Architecture
+* **Retrieval-Augmented Generation (RAG):** End-to-end design and deployment of enterprise RAG systems utilizing vector database indexing, hybrid search, and grounding strategies.
+* **Orchestration & Tool-Calling:** Building autonomous agentic workflows and tool-augmented applications using modern orchestration frameworks (LangChain, LlamaIndex).
+* **Production Engineering:** Full-stack integration of machine learning pipelines into scalable, high-throughput microservices.
 
-<!-- <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
-  <i class="fa-solid fa-file-pdf"></i> Download CV
-</a>
- -->
+### 3. Core Machine Learning & Deep Learning
+* **Geometric & Graph Learning:** Graph Neural Networks (GNNs), message-passing paradigms, and node/graph embedding representations.
+* **Generative & Vision Architectures:** Practical experience across Diffusion Models, Flow-based Models, GANs, and Transformers (Vision & Text).
+* **Frameworks & Infrastructure:** PyTorch, Hugging Face ecosystem, vLLM, DeepSpeed, CUDA optimization, and cloud infrastructure (Docker, CI/CD, AWS/GCP).
 
-<!-- Feel free to explore my [publications](/publications/) or check out my open-source projects on [GitHub](https://github.com/bahramiramazan)! -->
+---
+
+<div class="repositories d-flex flex-wrap flex-row justify-content-center align-items-center">
+  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="btn btn-sm z-depth-1 me-2" role="button" target="_blank" rel="noopener noreferrer">
+    <i class="fa-solid fa-file-pdf"></i> Download Curriculum Vitae
+  </a>
+  <a href="{{ '/publications/' | relative_url }}" class="btn btn-sm z-depth-1 me-2" role="button">
+    <i class="fa-solid fa-book"></i> View Publications
+  </a>
+  <a href="https://github.com/bahramiramazan" class="btn btn-sm z-depth-1" role="button" target="_blank" rel="noopener noreferrer">
+    <i class="fa-brands fa-github"></i> GitHub Profile
+  </a>
+</div>
