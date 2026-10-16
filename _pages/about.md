@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: True
   more_info: >
-    <p>Albrecht-Thaer-Weg 24f</p>
-    <p>37075 Göttingen, Germany</p>
+    <p>Göttingen, Germany</p>
 
 selected_papers: False
 social: true
