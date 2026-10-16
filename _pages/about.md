@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Doctoral Researcher at the **University of Göttingen** (expected completion: late 2026), specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research focuses on computational analogy—exploring how humans formulate analogical reasoning and designing techniques to improve abstract reasoning in LLMs. Learn more on my [Research Page](/research_profile/).
+I am a Doctoral Researcher at the **University of Göttingen** (expected completion: late 2026), specializing in **Natural Language Processing (NLP), Graph Machine Learning, and Generative AI**. My research focuses on computational model for analogical reasoning. I am curious about analogy, how it is processed in human, and how can we improve the same in LLMs [Research Page](/research_profile/).
 
 Alongside my academic work, I bring ** 4 years of software engineering experience **. 
 ---
