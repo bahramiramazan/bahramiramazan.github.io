@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Candidate in NLP & Generative AI | Machine Learning & Software Engineer
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
