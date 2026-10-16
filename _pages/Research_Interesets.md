@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research_Interests/
-title: Research Interests
+title: research interests
 description: My research is rooted in analogy and analogical reasoning.
 nav: true
 nav_order: 2
