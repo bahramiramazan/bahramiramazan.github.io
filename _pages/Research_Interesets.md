@@ -53,7 +53,7 @@ The "AI scientist" is an emerging research area, and I believe analogies can hav
 
 Analogy, where my background lies, plays an important role in conversation. Logic, another aspect of analogical reasoning, can also improve the reasoning of individual agents, and I am familiar with its use in LLMs. I elaborate on both below.
 
-### Analogies at the heart of everyday communication
+### Analogies at the heart of everyday communication:
 
 Analogies are part of our everyday communication, and we are especially inclined to use them when they help us convey our true intention, narrative, or understanding of a matter. The example below is taken from Gentner (2012). It comes from a discussion of a 2002 decision by a US judge ordering Microsoft to include Java as part of its operating system, and it shows how common analogies are in everyday discussions.
 
