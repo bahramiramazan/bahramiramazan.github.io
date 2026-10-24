@@ -41,18 +41,3 @@ I am a PhD candidate in Natural Language Processing at the University of Göttin
 
 My full list of papers is on the [publications page]({{ '/publications/' | relative_url }}).
 
-## Background
-
-Before my PhD, I spent more than five years as a software developer and educator at Kabul University, where I built web systems with Django and Vue.js, structured Agile processes, and designed a Big Data curriculum around graph processing with Neo4j. I also taught Human-Computer Interaction and programming as an adjunct lecturer at the American University of Afghanistan.
-
-I hold an M.Sc. in Computer Science from South Asian University (New Delhi, 2017) and a B.Sc. in Physics, Mathematics, and Computer Science from the University of Mysore (2012).
-
-## Community
-
-I founded and organized the first ACM/ICPC programming contest in Kabul, co-organized a workshop series promoting STEM research among university faculty (2019–2021), and co-organized online machine learning workshops with Physics Without Frontiers.
-
-## Languages
-
-Persian (native), English (C1), German (C1), French (B1).
-
-Outside of work I play football and volleyball, play competitive chess, hike, and read fiction.
