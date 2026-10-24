@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD candidate in Natural Language Processing, <a href='https://www.uni-goettingen.de/en'>University of Göttingen</a>. Reasoning, relation extraction, and graphs.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Albrecht-Thaer-Weg 24f</p>
+    <p>37075 Göttingen, Germany</p>
+    <p>bahram.ramazanali@gmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +27,32 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Natural Language Processing at the University of Göttingen, in the final phase of my doctorate. My research focuses on how language models reason and on extracting relations from text, two problems that meet in knowledge graphs.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Research
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Reasoning in LLMs.** In a paper accepted at INLG, I documented the logical reasoning abilities of 12 different models and proposed thinking speed as a metric for evaluating LLMs. I am also building [GraphMapping](https://github.com/bahramiramazan/graphmapping), a framework for evaluating multi-hop reasoning in modern LLMs.
+
+**Relation extraction.** I developed a Capsule Network architecture for sentence-level relation extraction that outperforms current state-of-the-art models. The code is in [re-representation](https://github.com/bahramiramazan/re-representation).
+
+**Graphs.** My first paper evaluated GraphFrames for running SPARQL queries on large graphs. Later work shows that text can be treated as a topological network, and applies this to multi-hop question answering. I am also familiar with graph neural networks.
+
+**Machine learning foundations.** I started my PhD with courses in deep learning, probabilistic machine learning, and unsupervised deep learning, and delivered practical projects with flow models, GANs, masked models, transformers, and CNNs.
+
+My full list of papers is on the [publications page]({{ '/publications/' | relative_url }}).
+
+## Background
+
+Before my PhD, I spent more than five years as a software developer and educator at Kabul University, where I built web systems with Django and Vue.js, structured Agile processes, and designed a Big Data curriculum around graph processing with Neo4j. I also taught Human-Computer Interaction and programming as an adjunct lecturer at the American University of Afghanistan.
+
+I hold an M.Sc. in Computer Science from South Asian University (New Delhi, 2017) and a B.Sc. in Physics, Mathematics, and Computer Science from the University of Mysore (2012).
+
+## Community
+
+I founded and organized the first ACM/ICPC programming contest in Kabul, co-organized a workshop series promoting STEM research among university faculty (2019–2021), and co-organized online machine learning workshops with Physics Without Frontiers.
+
+## Languages
+
+Persian (native), English (C1), German (C1), French (B1).
+
+Outside of work I play football and volleyball, play competitive chess, hike, and read fiction.
