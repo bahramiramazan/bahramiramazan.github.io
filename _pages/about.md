@@ -28,7 +28,7 @@ latest_posts:
 ---
 ## About Me
 
-I am a PhD candidate in Natural Language Processing at the University of Göttingen, currently in the final phase of my doctorate. My research focuses on analogies and analogical reasoning. For an introduction to analogies and ideas based on it click:  [Research Ideas Based on Analogy](https://bahramiramazan.github.io/research_Interests/).
+I am a PhD candidate in Natural Language Processing at the University of Göttingen, currently in the final phase of my doctorate. My research focuses on analogies and analogical reasoning. An introduction to analogies and ideas based on it are given here:  [Research Ideas Based on Analogy](https://bahramiramazan.github.io/research_Interests/).
 
 ## Research
 
