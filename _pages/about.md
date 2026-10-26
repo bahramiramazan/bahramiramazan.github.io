@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate in Natural Language Processing, <a href='https://www.uni-goettingen.de/en'>University of Göttingen</a>. Reasoning, relation extraction, and graphs.
+# subtitle: PhD candidate in Natural Language Processing, <a href='https://www.uni-goettingen.de/en'>University of Göttingen</a>. Reasoning, relation extraction, and graphs.
 
 profile:
   align: right
