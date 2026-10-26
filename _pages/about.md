@@ -26,18 +26,19 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+## About Me
 
-I am a PhD candidate in Natural Language Processing at the University of Göttingen, in the final phase of my doctorate. My research is primarily focused on understanding analogies and analogical reasoning. A introduction to analogical reasonning and research ideas based on it is elaborated in [GraphMapping](https://bahramiramazan.github.io/research_Interests/)  
+I am a PhD candidate in Natural Language Processing at the University of Göttingen, currently in the final phase of my doctorate. My research focuses on analogies and analogical reasoning. For an introduction to the topic and the research ideas that grow out of it, see [Research Ideas Based on Analogy](https://bahramiramazan.github.io/research_Interests/).
 
 ## Research
 
-**Reasoning in LLMs.** Motivated primarily on graph mapping, a form of analogical reasoning where both contexts are graph, and the task is mapping between two isomorphics graphs, we evaluate 12 different models and propose thinking speed as a metric for evaluating LLMs [GraphMapping](https://github.com/bahramiramazan/graphmapping)
+**Reasoning in LLMs.** Graph mapping is a form of analogical reasoning in which both contexts are graphs and the task is to map between two isomorphic graphs. Using this setting, we evaluate 12 models and propose *thinking speed* as a metric for evaluating LLMs. [Code and details](https://github.com/bahramiramazan/graphmapping)
 
+**Relation Extraction.** I developed a Capsule Network architecture for sentence-level relation extraction that outperforms current state-of-the-art models. Relation extraction is itself a form of relation mapping, and therefore of analogical reasoning. [Code and details](https://github.com/bahramiramazan/re-representation)
 
-**Relation extraction.** I developed a Capsule Network architecture for sentence-level relation extraction that outperforms current state-of-the-art models. This again a from of relation mapping, and therefore analogical reasoning  [re-representation](https://github.com/bahramiramazan/re-representation).
+**Understanding Word Analogies.** This work examines the role of semantic similarity in word analogies and how it can make multiple-choice word analogy questions difficult. [Paper (PDF)](https://bahramiramazan.github.io/assets/pdf/word_analogy_.pdf)
 
-**Understanding Word Analogies.** Understanding Semantic similarity's role in word analogy, and how it can make multi-choice word analogy questions difficult.   [re-representation](https://bahramiramazan.github.io/assets/pdf/word_analogy_.pdf).
-
+---
 
 My full list of papers is on the [publications page]({{ '/publications/' | relative_url }}).
 
