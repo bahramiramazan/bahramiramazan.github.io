@@ -27,17 +27,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Natural Language Processing at the University of Göttingen, in the final phase of my doctorate. My research focuses on how language models reason and on extracting relations from text, two problems that meet in knowledge graphs.
+I am a PhD candidate in Natural Language Processing at the University of Göttingen, in the final phase of my doctorate. My research is primarily focused on understanding analogies and analogical reasoning. A introduction to analogical reasonning and research ideas based on it is elaborated in [GraphMapping](https://bahramiramazan.github.io/research_Interests/)  
 
 ## Research
 
-**Reasoning in LLMs.** In a paper accepted at INLG, I documented the logical reasoning abilities of 12 different models and proposed thinking speed as a metric for evaluating LLMs. I am also building [GraphMapping](https://github.com/bahramiramazan/graphmapping), a framework for evaluating multi-hop reasoning in modern LLMs.
+**Reasoning in LLMs.** Motivated primarily on graph mapping, a form of analogical reasoning where both contexts are graph, and the task is mapping between two isomorphics graphs, we evaluate 12 different models and propose thinking speed as a metric for evaluating LLMs [GraphMapping](https://github.com/bahramiramazan/graphmapping)
 
-**Relation extraction.** I developed a Capsule Network architecture for sentence-level relation extraction that outperforms current state-of-the-art models. The code is in [re-representation](https://github.com/bahramiramazan/re-representation).
 
-**Graphs.** My first paper evaluated GraphFrames for running SPARQL queries on large graphs. Later work shows that text can be treated as a topological network, and applies this to multi-hop question answering. I am also familiar with graph neural networks.
+**Relation extraction.** I developed a Capsule Network architecture for sentence-level relation extraction that outperforms current state-of-the-art models. This again a from of relation mapping, and therefore analogical reasoning  [re-representation](https://github.com/bahramiramazan/re-representation).
 
-**Machine learning foundations.** I started my PhD with courses in deep learning, probabilistic machine learning, and unsupervised deep learning, and delivered practical projects with flow models, GANs, masked models, transformers, and CNNs.
+**Understanding Word Analogies.** Understanding Semantic similarity's role in word analogy, and how it can make multi-choice word analogy questions difficult.   [re-representation](https://bahramiramazan.github.io/assets/pdf/word_analogy_.pdf).
+
 
 My full list of papers is on the [publications page]({{ '/publications/' | relative_url }}).
 
